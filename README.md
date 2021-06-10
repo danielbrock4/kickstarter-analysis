@@ -1,4 +1,3 @@
-# kickstarter-analysis
 # An Analysis of Kickstarter Campaigns
 ## Findings
 * Used Kickstarter Data to identify successful campaigns
