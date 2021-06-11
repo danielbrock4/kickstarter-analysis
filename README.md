@@ -8,3 +8,9 @@ Louise is interested in Theater, so we used outcome results to help determine if
 - [Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 ### Challenges
 My entire career, I have been using excel, so most of these exercises were easy.  However, because I was lazy in Deliverable 2, I didn't want to type out all the changes in the CountIfs formulas. Therefore, I created Greater Than and Less Than Columns so that I could copy the formulas down. While this worked and saved me time when I created the chart, I wasn't able to filter out these columns, so while my chart data was correct, the X-Axis labels were screwed up. To fix this, I copied and pasted it in another section of the workbook as a number. Then I deleted my Greater Than and Less Than Columns. After this, I recreated the chart, and I did not have any problems. 
+## 3) Results
+### What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+### What can you conclude about the Outcomes based on Goals?
+### What are some limitations of this dataset?
+### What are some other possible tables and/or graphs that we could create?
+###
