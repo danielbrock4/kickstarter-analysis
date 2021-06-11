@@ -4,5 +4,5 @@ Throughout this project, we were helping Louise using Kickstarter campaign data 
 ## 2) Analysis and Challenges
 ### Analysis
 We used Pivot Tables, VLookups, Data Charts, and Count formulas to develop two charts
-*Outcomes Based on Launch Date
-*Outcomes Based on Goals
+-Outcomes Based on Launch Date
+-Outcomes Based on Goals
