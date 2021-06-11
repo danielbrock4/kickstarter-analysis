@@ -8,4 +8,4 @@ We used Pivot Tables, VLookups, Data Charts, and Count formulas to develop two c
 - Outcomes Based on Goals
 - docs/Resources/Outcomes_vs_Goals.png
 - 
-[Outcomes_vs_Goals]Resources/Outcomes_vs_Goals.png
+[Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
