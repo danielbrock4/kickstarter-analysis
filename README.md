@@ -8,5 +8,3 @@ We used Pivot Tables, VLookups, Data Charts, and Count formulas to develop two c
 - Outcomes Based on Goals
 - docs/Resources/Outcomes_vs_Goals.png
 - [Outcomes bs Goals]Resources/Outcomes_vs_Goals.png
-Resources/Outcomes_vs_Goals.png
-https://github.com/danielbrock4/kickstarter-analysis/blob/a246bcc6813d4f6b8d8c50379bb1cd1f4561a19d/Resources/Outcomes_vs_Goals.png
