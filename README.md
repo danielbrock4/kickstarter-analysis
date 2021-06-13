@@ -20,6 +20,7 @@ Having reasonable goals below $5000 is the best way to ensure the success of the
 These two graphs & data sets cover the easiest and most accessible metrics of successful campaigns such as timing and goal amounts. However, given all the data provided about Kickstarter campaigns.
 - [x] We could drill down further
 - [x] We look at other data metrics that are not being used. 
+
 A lot of data was given to us by Kickstarter, so we should be using this data to ask questions of why we might see more successful campaigns at certian times of year or why goal rates may matter. 
 ### What are some other possible tables and/or graphs that we could create?
 After determining April through June saw the highest rates of successful campaigns, I want to determine why this may be. My first question would be, should we look at the backer count numbers and *Outcomes Based on Launch* date to see if there is a correlation between year and Kickstarter campaign engagement? Therefore, I could create a line graph to see backer count numbers based on time of year to see if it looks similar to our previous conclusion. 
